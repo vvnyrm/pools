@@ -16,7 +16,7 @@ header {
 .collection {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(23, 1fr);
+    grid-template-rows: repeat(18, 1fr);
     grid-gap: 20px;
     white-space: nowrap;
     padding: 20px;
