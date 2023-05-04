@@ -1,0 +1,327 @@
+[
+  {
+    "OBJECTID": 205,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 15,
+    "BOROUGH": "X",
+    "NAME": "Crotona Pool",
+    "POOLTYPE": "Diving, All",
+    "image": "./imgs/crotonapool.png"
+  },
+  {
+    "OBJECTID": 206,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 17,
+    "BOROUGH": "X",
+    "NAME": "St. Mary's Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/stmaryspool.png"
+  },
+  {
+    "OBJECTID": 207,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 27,
+    "BOROUGH": "Q",
+    "NAME": "Roy Wilkins Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/roywilkinspool.png"
+  },
+  {
+    "OBJECTID": 208,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 11,
+    "BOROUGH": "X",
+    "NAME": "Van Cortlandt Pool",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/vancortlandtpool.png"
+  },
+  {
+    "OBJECTID": 209,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 33,
+    "BOROUGH": "B",
+    "NAME": "McCarren Park Pool",
+    "POOLTYPE": "Olympic, All",
+    "image": "./imgs/mccarrenparkpool.png"
+  },
+  {
+    "OBJECTID": 211,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 22,
+    "BOROUGH": "Q",
+    "NAME": "Astoria",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/astoria.png"
+  },
+  {
+    "OBJECTID": 212,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 4,
+    "BOROUGH": "M",
+    "NAME": "Asser Levy Pool",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/asserlevypool.png"
+  },
+  {
+    "OBJECTID": 214,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 15,
+    "BOROUGH": "X",
+    "NAME": "Mapes Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/mapespool.png"
+  },
+  {
+    "OBJECTID": 216,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 7,
+    "BOROUGH": "M",
+    "NAME": "Jackie Robinson",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/jackierobinson.png"
+  },
+  {
+    "OBJECTID": 246,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 19,
+    "BOROUGH": "Q",
+    "NAME": "Marie Curie Park Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/mariecurieparkpool.png"
+  },
+  {
+    "OBJECTID": 218,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 38,
+    "BOROUGH": "B",
+    "NAME": "Sunset Park",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/sunsetpark.png"
+  },
+  {
+    "OBJECTID": 219,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 34,
+    "BOROUGH": "B",
+    "NAME": "Bushwick Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/bushwickpool.png"
+  },
+  {
+    "OBJECTID": 220,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 3,
+    "BOROUGH": "M",
+    "NAME": "Tony Dapolito Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/tonydapolitopool.png"
+  },
+  {
+    "OBJECTID": 221,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 10,
+    "BOROUGH": "M",
+    "NAME": "Highbridge",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/highbridge.png"
+  },
+  {
+    "OBJECTID": 222,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 19,
+    "BOROUGH": "Q",
+    "NAME": "Totten Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/tottenpool.png"
+  },
+  {
+    "OBJECTID": 223,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 9,
+    "BOROUGH": "M",
+    "NAME": "Hansborough Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/hansboroughpool.png"
+  },
+  {
+    "OBJECTID": 224,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 5,
+    "BOROUGH": "M",
+    "NAME": "Recreation Center 54 Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/recreationcenter54pool.png"
+  },
+  {
+    "OBJECTID": 225,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 49,
+    "BOROUGH": "R",
+    "NAME": "Lyons",
+    "POOLTYPE": "Diving, All",
+    "image": "./imgs/lyons.png"
+  },
+  {
+    "OBJECTID": 226,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 6,
+    "BOROUGH": "M",
+    "NAME": "Gertrude Ederle Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/gertrudeederlepool.png"
+  },
+  {
+    "OBJECTID": 227,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 34,
+    "BOROUGH": "B",
+    "NAME": "Metropolitan Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/metropolitanpool.png"
+  },
+  {
+    "OBJECTID": 228,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 16,
+    "BOROUGH": "X",
+    "NAME": "Mullaly Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/mullalypool.png"
+  },
+  {
+    "OBJECTID": 230,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 9,
+    "BOROUGH": "M",
+    "NAME": "Marcus Garvey Pool",
+    "POOLTYPE": "Diving, All",
+    "image": "./imgs/marcusgarveypool.png"
+  },
+  {
+    "OBJECTID": 232,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 22,
+    "BOROUGH": "Q",
+    "NAME": "PS 10 Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/ps10pool.png"
+  },
+  {
+    "OBJECTID": 233,
+    "LOCATION": "Indoor",
+    "GISPROPNUM": "M260",
+    "COUNCILDIS": 3,
+    "BOROUGH": "M",
+    "NAME": "Chelsea Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/chelseapool.png"
+  },
+  {
+    "OBJECTID": 234,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 5,
+    "BOROUGH": "M",
+    "NAME": "Recreation Center 59 Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/recreationcenter59pool.png"
+  },
+  {
+    "OBJECTID": 235,
+    "LOCATION": "Indoor",
+    "COUNCILDIS": 21,
+    "BOROUGH": "Q",
+    "NAME": "Flushing Meadows Corona Park Pool & Rink",
+    "POOLTYPE": "Olympic, All",
+    "image": "./imgs/flushingmeadows.png"
+  },
+  {
+    "OBJECTID": 247,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 19,
+    "BOROUGH": "Q",
+    "NAME": "Totten Pool",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/totten.png"
+  },
+  {
+    "OBJECTID": 237,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 2,
+    "BOROUGH": "M",
+    "NAME": "Hamilton Fish",
+    "POOLTYPE": "Wading, All",
+    "image": "./imgs/hamiltonfish.png"
+  },
+  {
+    "OBJECTID": 239,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 49,
+    "BOROUGH": "R",
+    "NAME": "PS 14 Playground Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/ps14.png"
+  },
+  {
+    "OBJECTID": 240,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 50,
+    "BOROUGH": "R",
+    "NAME": "General Douglas Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/generaldouglas.png"
+  },
+  {
+    "OBJECTID": 241,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 49,
+    "BOROUGH": "R",
+    "NAME": "Mariner's Harbor Playground Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/marinersharbor.png"
+  },
+  {
+    "OBJECTID": 242,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 49,
+    "BOROUGH": "R",
+    "NAME": "West Brighton Pool",
+    "POOLTYPE": "Intermediate, All",
+    "image": "./imgs/westbrighton.png"
+  },
+  {
+    "OBJECTID": 244,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 26,
+    "BOROUGH": "Q",
+    "NAME": "Windmuller Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/windmuller.png"
+  },
+  {
+    "OBJECTID": 245,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 23,
+    "BOROUGH": "Q",
+    "NAME": "PS 186 Playground Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/ps186.png"
+  },
+  {
+    "OBJECTID": 249,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 36,
+    "BOROUGH": "B",
+    "NAME": "JHS 57/HS 26 Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/jhs.png"
+  },
+  {
+    "OBJECTID": 250,
+    "LOCATION": "Outdoor",
+    "COUNCILDIS": 46,
+    "BOROUGH": "B",
+    "NAME": "Lindower Park Pool",
+    "POOLTYPE": "Mini, All",
+    "image": "./imgs/lindower.png"
+  }
+]

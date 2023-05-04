@@ -1,0 +1,93 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 20px;
+}
+
+.collection {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(23, 1fr);
+    grid-gap: 20px;
+    white-space: nowrap;
+    padding: 20px;
+}
+
+.pools {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Jetbrains Mono';
+    font-size: 5em;
+    padding: 20px;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'Jetbrains Mono';
+    font-size: 1.5em;
+}
+
+p {
+    font-family: 'Jetbrains Mono';
+    font-size: 1em;
+}
+
+img {
+    width: 30%;
+    height: auto;
+    z-index: 2;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    border: 0;
+    background-color: #E2E3EE;
+    margin: 20px;
+}
+
+button:hover {
+    background-color:#C3FFFF;
+    cursor: pointer;
+}
+
+.btn-filter {
+    font-family: 'Jetbrains Mono';
+    font-size: 1em;
+}
+
+/* .diving:hover {
+    background-color: #C3F4FF;
+}
+
+.intermediate:hover {
+    background-color: #9BDEEE;
+}
+
+.wading:hover {
+    background-color: #7DBEDD;
+}
+
+.olympic:hover {
+    background-color: #669DCD;
+}
+
+.mini:hover {
+    background-color: #5873C3;
+} */
