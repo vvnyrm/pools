@@ -16,6 +16,10 @@ header {
     margin: 20px;
 }
 
+.circle:hover {
+    cursor: none;
+}
+
 .collection {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
